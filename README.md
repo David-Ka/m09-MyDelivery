@@ -7,9 +7,7 @@
 <p>Team M09 <br>
 Teammitglieder: Kai Kirchen, Felix Krings, Pia Seiz, Simon Steinbach, Julian Zeitler, David Kaufmann (#erstiePower)</p>
 
-<p>App Prototyp: <br>
-Webseite: <br>
+<p>App Prototyp: siehe Screenshots, Screenrecording und App-Mockup<br>
+Webseite: https://my-delivery-1.jimdosite.com/<br>
+Trello Board: https://trello.com/b/EY57Pvfh
 </p>
-
-Kurzbeschreibung der Solution und Präsentation mit den Schlüsselbotschaften
-Solution / Prototyp Link / Dokumentation / Beschreibung
