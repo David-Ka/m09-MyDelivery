@@ -11,3 +11,5 @@ Teammitglieder: Kai Kirchen, Felix Krings, Pia Seiz, Simon Steinbach, Julian Zei
 Webseite: https://my-delivery-1.jimdosite.com/<br>
 Trello Board: https://trello.com/b/EY57Pvfh
 </p>
+
+<img src="App Screenshots/1_Login Screen.png" width="500" height="700">
