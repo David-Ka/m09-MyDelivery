@@ -12,4 +12,5 @@ Webseite: https://my-delivery-1.jimdosite.com/<br>
 Trello Board: https://trello.com/b/EY57Pvfh
 </p>
 
-<img src="App Screenshots/1_Login Screen.png" width="500" height="700">
+<img src="https://github.com/David-Ka/m09-MyDelivery/blob/main/App%20Screenshots/1_Loading%20Screen.png">
+<img src="https://github.com/David-Ka/m09-MyDelivery/blob/main/App%20Screenshots/4_Tracking%20Screen.png">
